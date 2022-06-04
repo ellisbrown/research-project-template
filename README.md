@@ -1,7 +1,7 @@
 > `### <<< DELETE ME:` ***Template***
 >  
 > This template contains some useful structure and convention for new research
-> projects that will help make you get started more quickly, and will make your
+> projects that will help you get started more quickly, and will make your
 > code more accessible, maintainable, and reproducible. This will make your
 > work more likely to be adopted by others!
 >
@@ -144,3 +144,4 @@ Please make sure to update tests as appropriate.
   year={Year}
 }
 ```
+
