@@ -3,10 +3,11 @@
 
 name: change-me
 
+# higher channels get priority
 channels:
-  - defaults
-  - anaconda
   - conda-forge
+  - anaconda
+  - defaults
 
 # Prefer conda dependencies over pip wherever possible
 dependencies:
@@ -17,7 +18,6 @@ dependencies:
   - pre-commit
   - flake8
   - black
-  - typed-ast>=1.5.4  # for black
   - ipykernel
   - ipython
   - tqdm
