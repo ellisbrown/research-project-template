@@ -36,13 +36,14 @@ A new project template for research projects. `> REPLACE ME`
 > `[Conference]` badge by replacing `Conference`, `Year`, and the link fields.
 > Else, delete it (or comment out).
 > 
-> It is also useful to add a CI build/test status badge to your project. A base
-> Continuous Integration pipeline has been defined in [.github/workflows/conda-test.yml](.github/workflows/conda-test.yml)
+> It is also useful to add a CI build/test [status badge](https://docs.github.com/en/actions/monitoring-and-troubleshooting-workflows/adding-a-workflow-status-badge)
+> to your project. A base Continuous Integration pipeline has been defined in
+> [.github/workflows/conda-test.yml](.github/workflows/conda-test.yml)
 > GitHub will automatically register and run this pipeline when you push to the
 > `main` branch.
 > 
-> Modify the `YOUR_GITHUB` and `YOUR_PROJECT` portions of the `[CI]` badge
-> (or copy from the workflow page) to include, else delete it (or comment out)
+> Copy the workflow badge from the corresponding workflow in the Actions tab
+> (click the breadcrumbs) and overwrite the Conda Test badge below.
 > 
 > 
 > `### DELETE ME >>>`
