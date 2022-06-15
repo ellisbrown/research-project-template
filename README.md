@@ -49,7 +49,7 @@ A new project template for research projects. `> REPLACE ME`
 >
 > </div>
 
-[![CI](https://github.com/YOUR_GITHUB/YOUR_PROJECT/actions/workflows/conda-test.yml/badge.svg)](https://github.com/YOUR_GITHUB/YOUR_PROJECT/actions/workflows/conda-test.yml)
+[![Conda Test](https://github.com/ellisbrown/research-project/actions/workflows/conda-test.yml/badge.svg)](https://github.com/ellisbrown/research-project/actions/workflows/conda-test.yml)
 [![arXiv](https://img.shields.io/badge/cs.LG-arXiv:1234.56789-b31b1b.svg)](https://arxiv.org/abs/1234.56789)
 [![Conference](https://img.shields.io/badge/Conference-year-4b44ce.svg)](https://yourconference.org/2020)
 
